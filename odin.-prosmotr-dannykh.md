@@ -1,0 +1,36 @@
+# Odin. Просмотр данных
+
+В  Odin сдающий проходит тестирование и сдаёт устную часть (для экзаменов по РВП и ВНЖ). \
+Обе части экзамена фиксируются в системе и сохраняются видео.
+
+### Как посмотреть результаты и видео сдающего экзамен?
+
+{% tabs %}
+{% tab title="Со страницы сдающего" %}
+Со страницы профиля сдающего нажать на флажок - итог экзамена
+
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Из списка экзаменов" %}
+1. Откройте страницу площадки, где требуется посмотреть экзамены
+
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+2. В списке экзаменов, которые уже прошли, нажмите 3 точки и выберите пункт "Итог экзамена"
+
+{% hint style="info" %}
+Экзамены, которые прошли по дате и проверены сотрудниками центра тестирования, будут отмечены архивными. Каждый из архивных экзаменов доступен для просмотра
+{% endhint %}
+
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+3. Выбрать сдающего из списка и посмотреть его результаты и запись экзамена
+
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+2. Посмотреть видео и результаты&#x20;
+
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
