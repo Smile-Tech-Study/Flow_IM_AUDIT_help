@@ -9,13 +9,13 @@
 {% tab title="Со страницы сдающего" %}
 Со страницы профиля сдающего нажать на флажок - итог экзамена
 
-![](<.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (9).png>)
 {% endtab %}
 
 {% tab title="Из списка экзаменов" %}
 1. Откройте страницу площадки, где требуется посмотреть экзамены
 
-![](<.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (6).png>)
 
 2. В списке экзаменов, которые уже прошли, нажмите 3 точки и выберите пункт "Итог экзамена"
 
@@ -25,14 +25,14 @@
 
 :::
 
-![](<.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (7).png>)
 
 3. Выбрать сдающего из списка и посмотреть его результаты и запись экзамена
 
-![](<.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (8).png>)
 
 2. Посмотреть видео и результаты&#x20;
 
-![](<.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (10).png>)
 {% endtab %}
 {% endtabs %}
