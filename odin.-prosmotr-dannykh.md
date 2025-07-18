@@ -31,7 +31,7 @@
 
 ![](<.gitbook/assets/image (8).png>)
 
-2. Посмотреть видео и результаты&#x20;
+2. Посмотреть видео и результаты
 
 ![](<.gitbook/assets/image (10).png>)
 {% endtab %}
