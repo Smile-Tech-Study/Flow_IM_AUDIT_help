@@ -4,6 +4,6 @@
 
 "Расширенные фильтры" откроют больше полей для поиска и фильтрации заявок по выбранным критериям.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Клик по номеру заявки откроет  страницу заявки, где можно будет посмотреть [документы и информацию по экзамену для конкретного человека](dokumenty-i-informaciya-po-zayavke/)
