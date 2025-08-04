@@ -61,4 +61,4 @@ title: Статусы заявок
 
 -  **отказался от услуги** - сдающий отказался от сдачи экзамена.
 
-   ![](./statusy-zayavok.jpeg){width=2304px height=1385px}
+-  ![](./statusy-zayavok.png){width=1520px height=914px}
