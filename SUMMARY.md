@@ -5,10 +5,10 @@ title: Содержание
 
 -  [Общие данные](./README)
 
--  [Flow. Просмотр данных](flow.-prosmotr-dannykh/README)
+-  [Flow. Просмотр данных](./README-2/_index)
 
-   -  [Документы и информация по заявке](flow.-prosmotr-dannykh/dokumenty-i-informaciya-po-zayavke/README)
+   -  [Документы и информация по заявке](./README-2/README/_index)
 
-      -  [Статусы заявок](flow.-prosmotr-dannykh/dokumenty-i-informaciya-po-zayavke/statusy-zayavok)
+      -  [Статусы заявок](./README-2/README/statusy-zayavok)
 
 -  [Odin. Просмотр данных](./odin.-prosmotr-dannykh)
